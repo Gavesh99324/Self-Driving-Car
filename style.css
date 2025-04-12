@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background: rgb(20, 20, 42);
+    overflow: hidden;
+    text-align: center;
+}
+
+#myCanvas {
+    background: white;
+}
+
