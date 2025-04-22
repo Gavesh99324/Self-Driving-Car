@@ -14,3 +14,4 @@ function animate() {
     car.draw(ctx);
     requestAnimationFrame(animate);
 };
+
